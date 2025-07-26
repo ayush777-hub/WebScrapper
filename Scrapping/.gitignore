@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# MyPy and Pyright cache
+.mypy_cache/
+.pyright/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# pip wheel
+*.egg-info/
+pip-wh
+
+# Ignore third-party library folders
+Lib/
+libs/
+library/
+site-packages/
+
+Scripts/
+
+*.ini
+*.bru
